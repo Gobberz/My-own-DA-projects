@@ -80,9 +80,3 @@ Imagine the same route on June 1, 2025, at 5:30 AM. This section evaluates chang
 
 The 1976 route was feasible due to unique conditions: empty streets, lax enforcement, and no modern surveillance. In 2025, replicating this drive at the same speed is impossible due to strict regulations, pedestrian zones, and cameras. Paris has evolved into a safer, greener, and more tourist-oriented city while preserving the charm of its iconic landmarks.
 
-## Next Steps
-- **Data Enhancement**: Refine distances and coordinates using Google Maps API.
-- **Visualization**: Add historical map overlays (e.g., via QGIS) for a 1976 vs. 2025 comparison.
-- **Simulation**: Incorporate real-time traffic data for a 2025 scenario.
-
-Feel free to contribute! Check the [code repository](https://github.com/yourusername/rendezvous-project) for Python scripts and further details.
