@@ -12,3 +12,7 @@ In this section I collect my own analytical projects from "life", everything tha
 | 5 | [Sharks](https://nbviewer.org/github/Gobberz/My-own-DA-projects/blob/main/Sharks/Untitled.ipynb) | Analysis of global shark attack records from the 1960s to the present: trends over time, geography, and key factors. |
 | 6 | [Space missions](https://github.com/Gobberz/My-own-DA-projects/blob/main/Space_missions/Space%20missions.ipynb) | End-to-end analysis of space missions since the start of the space race: launch dynamics, countries/organizations, and mission outcomes. |
 | 7 | [UFO](https://nbviewer.org/github/Gobberz/My-own-DA-projects/blob/main/UFO_analytics/UFO_Analysies.ipynb) | NLP/text analysis of UFO/alien mentions in news/blog sources: topic exploration and classification of mention types. |
+| 8 | [F2P-analytics](https://nbviewer.org/github/Gobberz/My-own-DA-projects/blob/main/F2P-analytics/notebooks/eda.ipynb) | A portfolio project simulating a real-world analytics workflow for a mobile free-to-play puzzle game (Homescapes-type). The project covers the full analysis cycle: synthetic data generation, statistical testing, behavioral segmentation, LTV proxy modeling, and an interactive analytics dashboard. + [Dash](https://f2p-analytics-hs.netlify.app/) |
+
+
+
